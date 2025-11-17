@@ -1,6 +1,6 @@
-# API Fundamentals — Quick README
+# API Fundamentals
 
-**Source:** Postman API Fundamentals Student Expert certification. :contentReference[oaicite:0]{index=0}
+**Source:** Postman API Fundamentals Student Expert certification. :[Certification](https://postman.badges.parchment.com/public/assertions/hAd6V_i9SxKQmPpZR97PYg?identity__email=dulnethransilu@gmail.com)
 
 ## What this is
 A concise reference for basic API concepts and common Postman workflows: making requests (GET/POST/PATCH/DELETE), using variables, adding auth, reading responses, and simple scripting with Postman’s `pm` API.
