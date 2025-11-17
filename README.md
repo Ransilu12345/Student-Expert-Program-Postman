@@ -55,11 +55,11 @@ Postman API Fundamentals Studen…
 
 ## Tips
 **Read API docs for required path vs query params.**
-[Postman API Fundamentals Studen…](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
+Postman API Fundamentals Studen…
 
 **Use Postman Console for debugging requests and scripts.**
-[(https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
+Postman API Fundamentals Studen…
 
 ## Further reading
 **Postman docs and the Library API examples referenced in the course.**
-[Postman API Fundamentals Studen…](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
+Postman API Fundamentals Studen…
