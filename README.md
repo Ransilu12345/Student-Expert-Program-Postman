@@ -51,15 +51,15 @@ Postman API Fundamentals Studen…
 **Set collection variable**: pm.collectionVariables.set("id", body.id);
 
 Use in later requests as {{id}}. 
-Postman API Fundamentals Studen…
+[Postman API Fundamentals Studen…](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
 
 ## Tips
 **Read API docs for required path vs query params.**
-Postman API Fundamentals Studen…
+[Postman API Fundamentals Studen…](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
 
 **Use Postman Console for debugging requests and scripts.**
-Postman API Fundamentals Studen…
+[Postman API Fundamentals Studen…](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
 
 ## Further reading
 **Postman docs and the Library API examples referenced in the course.**
-Postman API Fundamentals Studen…
+[Postman API Fundamentals Studen…](https://documenter.getpostman.com/view/15567703/UVyxRtng#1c3ce860-e1ee-4957-b517-2e3068021abc)
